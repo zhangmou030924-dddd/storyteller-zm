@@ -1,0 +1,7 @@
+streamlit
+transformers<5.0.0
+torch
+Pillow
+gTTS
+accelerate
+bitsandbytes
